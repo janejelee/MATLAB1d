@@ -1,0 +1,64 @@
+
+Rock heat capacity
+
+temperature     heat-capacity
+0		737.3
+100		882.3
+200		977.4
+300		1054
+400		1122.3
+500		1122.3
+600		1122.3
+1000		1122.3
+
+Rock thermal conductivity
+temperature     thermal-conductivity
+0		3.54
+20		3.4
+100		2.95
+200		2.54
+300		2.21
+400		1.94
+500		1.94
+600		1.94
+1000		1.94
+
+Water heat-capacity
+temperature     heat-capacity
+  0		4250
+ 50		4190
+100		4200
+200		4200
+300		4200
+400		4200
+500		4200
+600		4200
+1000		4200
+
+
+Water thermal conductivity
+temperature     thermal-conductivity
+0		0.57
+20		0.6
+100		0.67
+200		0.66
+300		0.53
+400		0.26
+1000		0.20
+
+Alternative water density
+temperature     density
+0	        1019.3
+50          1004.7
+100           976.2
+150           937.9
+200           891.1
+250           834.5
+300           764.7
+350           672.3
+400           524.4
+450           272.4
+500           178.7
+550           143.9
+600           124.2
+1000	     100.0
